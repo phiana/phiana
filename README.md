@@ -3,6 +3,6 @@ data-driven forms of storytelling and expression in various mediums.
 
 I am currently an M.S. Computer Science student at Columbia University, where I specialize in machine learning. Previously, I received my B.A. from Columbia, where I studied playwriting.
 
-As a researcher, I am interested in unsupervised methods and deep generative models for text, audio, image, and video synthesis, representation and transfer learning, digital signal processing, and computational fairness. I am especially interested in neural end-to-end learning for audio and natural language processing tasks.
+As a researcher, I am interested in unsupervised methods and deep generative modeling for text, audio, image, and video synthesis, representation and transfer learning, digital signal processing, and computational fairness. I am especially interested in neural end-to-end learning for audio and natural language processing tasks.
 
 If you are interested in working together, please feel free to reach me at philip.anastassiou at columbia dot edu.
