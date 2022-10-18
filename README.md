@@ -1,4 +1,4 @@
-Hello - my name is Philip Anastassiou and I am an artist, researcher, and software engineer living in New York City. I am interested in the combination of art and [machine intelligence](https://en.wikipedia.org/wiki/Machine_learning) with the goal of developing new, data-driven forms of creative expression in various mediums.
+Hello - my name is Philip Anastassiou and I am an artist, researcher, and software engineer living in New York City. I am interested in the combination of art and [machine intelligence](https://en.wikipedia.org/wiki/Machine_learning) with the goal of developing new, data-driven tools for creative expression in various mediums.
 
 I am an M.S. Computer Science student at [Columbia University](https://www.cs.columbia.edu/), where I specialize in machine learning. Previously, I received my B.A. from Columbia, where I studied playwriting. I am currently a SWE Intern with the Speech, Audio, and Music Intelligence (SAMI) team at [ByteDance](https://www.bytedance.com/)/[TikTok](https://www.tiktok.com/).
 
