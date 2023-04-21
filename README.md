@@ -4,4 +4,4 @@ I am a Speech Synthesis Engineer on the Speech, Audio, and Music Intelligence (S
 
 My research interests include deep generative modeling, self-supervised representation and transfer learning, knowledge distillation, digital signal processing, and computational fairness. I am especially interested in neural end-to-end learning for audio and natural language processing tasks.
 
-If you would like to connect, please feel free to reach me at philip.anastassiou \[at\] columbia \[dot\] edu.
+If you would like to connect, please feel free to reach me at philip \[dot\] anastassiou \[at\] pm \[dot\] me.
