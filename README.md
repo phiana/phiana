@@ -1,4 +1,4 @@
-Hello – my name is Philip and I am an artist, researcher, and software engineer living in San Francisco. I am interested in the combination of art and [machine intelligence](https://en.wikipedia.org/wiki/Machine_learning) with the goal of developing new, data-driven tools for creative expression.
+Hello – my name is Philip and I am a musician and machine learning researcher living in San Francisco. I am interested in the combination of art and [machine intelligence](https://en.wikipedia.org/wiki/Machine_learning) with the goal of developing new, data-driven tools for creative expression.
 
 I am a Speech Synthesis Engineer on the Speech, Audio, and Music Intelligence (SAMI) team at [ByteDance](https://www.bytedance.com/)/[TikTok](https://www.tiktok.com/).  I completed my M.S. in Computer Science and B.A. in Theatre at [Columbia University](https://www.cs.columbia.edu/).
 
